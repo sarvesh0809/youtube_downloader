@@ -1,0 +1,7 @@
+youtube-dl==2021.4.26
+whitenoise==5.2.0
+pafy==0.5.5
+pytube==10.7.2
+Django==3.2
+waitress==2.0.0
+gunicorn==20.1.0
